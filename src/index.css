@@ -26,3 +26,28 @@ body{
   color:#fff;
   padding-right: 50px
 }
+
+.center{
+  text-align: center;
+}
+
+.pub_title{
+  border-top: 1px solid #000;
+}
+
+.center {
+	text-align: center;
+}
+
+.rojo {
+	color: red;
+}
+.works_container {
+	font-size: 20px;
+	margin-left: 50px;
+	margin-bottom: 70px
+}
+
+.m_left {
+	margin-left: 20px;
+}
